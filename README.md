@@ -22,6 +22,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=giulldev&icon=9&color=6)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/giulldev/giulldev/blob/output/github-contribution-grid-snake.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
